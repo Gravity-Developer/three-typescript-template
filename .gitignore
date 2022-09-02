@@ -1,0 +1,7 @@
+# Typescript Module (not dev
+/dist
+node_modules
+# Possible Data
+/data
+
+**/bundle.js
